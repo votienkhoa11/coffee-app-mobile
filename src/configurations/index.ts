@@ -5,7 +5,12 @@ const storageKey = {
     cart: 'CART',
 }
 
+const screenPath = {
+    LOGIN: 'Login',
+}
+
 export default {
     API_ENDPOINT,
-    storageKey
+    storageKey,
+    screenPath
 }

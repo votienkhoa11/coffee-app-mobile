@@ -1,0 +1,1 @@
+export const LoaderSelector = (state: any) => state?.loader?.isLoading
